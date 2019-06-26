@@ -9,20 +9,6 @@
       "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
-        "Conceptual": "Content"
-      },
-      "build_entry_point": "docs",
-      "template_folder": "_themes"
-    },
-    {
-      "docset_name": "VBA-Docs",
-      "build_source_folder": ".",
-      "build_output_subfolder": "VBA-Docs",
-      "locale": "en-us",
-      "monikers": [],
-      "moniker_ranges": [],
-      "open_to_public_contributors": true,
-      "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
         "RestApi": "Content"
@@ -32,7 +18,6 @@
     }
   ],
   "notification_subscribers": [],
-  "sync_notification_subscribers": [],
   "branches_to_filter": [],
   "git_repository_url_open_to_public_contributors": "https://github.com/MicrosoftDocs/VBA-Docs",
   "git_repository_branch_open_to_public_contributors": "master",
