@@ -1,9 +1,9 @@
 {
   "docsets_to_publish": [
     {
-      "docset_name": "VBA-Docs",
+      "docset_name": "ppe-VBA-Docs",
       "build_source_folder": ".",
-      "build_output_subfolder": "VBA-Docs",
+      "build_output_subfolder": "ppe-VBA-Docs",
       "locale": "en-us",
       "monikers": [],
       "moniker_ranges": [],
@@ -36,4 +36,3 @@
   "need_generate_pdf_url_template": false,
   "targets": {}
 }
-
