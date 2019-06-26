@@ -1,6 +1,20 @@
 {
   "docsets_to_publish": [
     {
+      "docset_name": "ppe-VBA-Docs",
+      "build_source_folder": ".",
+      "build_output_subfolder": "ppe-VBA-Docs",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "VBA-Docs",
       "build_source_folder": ".",
       "build_output_subfolder": "VBA-Docs",
